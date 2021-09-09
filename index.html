@@ -13,17 +13,17 @@
             <h1>Kai Smith</h1>
         </header>
         <main>
-            <p>Preséntate en este párrafo, compartiendo la razón por la que tomas este Electivo. Intenta ser breve. Este párrafo tiene treinta palabras. Tú puedes agregar más, pero evita superar las cincuenta.</p>
+            <p>Había querido tomar un electivo de programación, me parece interesante y muy útil, pero no había tenido la oportunidad, por lo que es mi primer acercamiento.</p>
         </main>     
         <footer>
         </footer>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
         <script>
-            var alternativas = ["perro", "gato", "tigre", "elefante"];
+            var alternativas = ["serpiente", "araña", "abeja", "rata", "medusa"];
             function setup() {
                 var lugar = select("footer");
                 var alternativa = random(alternativas);
-                createA("page.html"+"?dibuja="+alternativa, "Dibuja un " + alternativa).parent(lugar);
+                createA("page.html"+"?dibuja="+alternativa, "Dibuja una " + alternativa).parent(lugar);
                 noCanvas();
             }
         </script>
