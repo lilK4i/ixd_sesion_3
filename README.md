@@ -5,6 +5,7 @@
 Abeja dibujada por mi polola de 20 años
 
 ![mi_atacazo_artistico (1)](https://user-images.githubusercontent.com/89958958/132759018-3ca940c7-ad1d-4810-9dae-7d6737271ec9.jpg)
+![mi_atacazo_artistico (4)](https://user-images.githubusercontent.com/89958958/132759805-628d42e3-2380-457b-8ae2-91bee15cbe4d.jpg)
 
 Serpiente y rata dibujados por mi primo de 14 años
 
